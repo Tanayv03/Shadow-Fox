@@ -111,14 +111,11 @@ pip install jupyterlab_widgets
 
 Evaluation metrics:
 
-| Model                  | RMSE   | R² Score |
+| Model                  | RMSE   | CV Score |
 |------------------------|--------|----------|
-| Linear Regression      | XX.XX  | XX.XX    |
-| Decision Tree Regressor| XX.XX  | XX.XX    |
-| Random Forest Regressor| XX.XX  | XX.XX    |
-| Gradient Boosting      | XX.XX  | XX.XX    |
-
-_Replace XX.XX with your actual results._
+| XGBRegression          | 7.867  | 25.86    |
+| Decision Tree Regressor| 20.67  | 40.14    |
+| Extra Tree Regressor   | 11.03  | 21.77    |
 
 ---
 
