@@ -115,9 +115,10 @@ Model performance was evaluated using accuracy scores:
 
 | Model                | Accuracy |
 |---------------------|----------|
-| Logistic Regression | XX%      |
-| Decision Tree       | XX%      |
-| Random Forest       | XX%      |
+| KNeighbours         | 0.7967%  |
+| Decision Tree       | 0.6991%  |
+| Random Forest       | 0.7804%  |
+| GussianNB           | 0.8292%  |
 
 _Replace XX% with actual results after training._
 
