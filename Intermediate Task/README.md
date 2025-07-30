@@ -120,8 +120,6 @@ Model performance was evaluated using accuracy scores:
 | Random Forest       | 0.7804%  |
 | GussianNB           | 0.8292%  |
 
-_Replace XX% with actual results after training._
-
 ---
 
 ## 🖥️ UI Demo
